@@ -1,0 +1,11 @@
+
+#some of the problems that i face in this project and the solutions 
+
+--------------------------------
+command : ansible-galaxy collection install community.docker
+
+error  : ERROR! Unexpected Exception, this is probably a bug: find_matches() got an unexpected keyword argument 'identifier'
+
+solution :  sudo -H pip install -Iv 'resolvelib<0.6.0'
+
+---------------------------------

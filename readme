@@ -1,0 +1,16 @@
+
+
+notes
+-------------------
+this folder containe the setup of nextcloud 
+it's recomanded and much easier to do it with portainer
+but you can just do it with this comand 
+------------------- 
+docker-compose up -d 
+
+#start the prevision in the background
+#you can check with the following command 
+
+docker-compose ps
+
+----------------------------------
