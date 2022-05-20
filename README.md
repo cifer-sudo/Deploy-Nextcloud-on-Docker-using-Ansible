@@ -20,7 +20,7 @@ title : infrastructure as code
  |  Extensible storage     |
 --------------------------------
 
- 
+ ![alt text](https://www.ansible.com/hubfs/2016_Images/Blog_Headers/Ansible-Docker-Blog-2.png)
  
  ----------------------------------------------------  
  #FR
