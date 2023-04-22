@@ -3,7 +3,6 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Deploy Nextcloud Server using DevOps Technologies</title>
 </head>
 
 <body>
